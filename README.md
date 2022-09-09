@@ -7,3 +7,9 @@ Basic Banking System Sparks Foundation Web Development Internship Project : Basi
 3.Transaction status 
 4.Transfer table/ Transfer History which records all the transactions 
 5.Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers
+
+
+
+Here is some sample run:
+
+https://himanshweb.github.io/Banking-System/
